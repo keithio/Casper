@@ -5,3 +5,15 @@
 .social-badges a {
     text-decoration: none;
 }
+
+.social-badges > .github:hover {
+    color: #3f82b9;
+}
+
+.social-badges > .google-plus:hover {
+    color: #de443a;
+}
+
+.social-badges > .twitter:hover {
+    color: #3472a3;
+}

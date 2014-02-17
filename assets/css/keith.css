@@ -6,14 +6,38 @@
     text-decoration: none;
 }
 
+.social-badges > .facebook:hover {
+    color: #3b5998;
+}
+
+.social-badges > .flickr:hover {
+    color: #fe0883;
+}
+
 .social-badges > .github:hover {
     color: #3f82b9;
 }
 
 .social-badges > .google-plus:hover {
-    color: #de443a;
+    color: #c63d2d;
+}
+
+.social-badges > .instagram:hover {
+    color: #4e433c;
+}
+
+.social-badges > .linkedin:hover {
+    color: #4875b4;
 }
 
 .social-badges > .twitter:hover {
-    color: #3472a3;
+    color: #33ccff;
+}
+
+.social-badges > .vimeo:hover {
+    color: #86b32d;
+}
+
+.social-badges > .youtube:hover {
+    color: #ff3333;
 }

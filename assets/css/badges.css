@@ -6,6 +6,10 @@
     text-decoration: none;
 }
 
+.social-badges > .dribbble:hover {
+    color: #ea4c89;
+}
+
 .social-badges > .facebook:hover {
     color: #3b5998;
 }

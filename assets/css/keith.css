@@ -1,4 +1,7 @@
-.social-badges a {
+.social-badges {
     margin: 10px 0 -10px 0;
+}
+
+.social-badges a {
     text-decoration: none;
 }

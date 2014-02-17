@@ -1,9 +1,9 @@
 .social-badges {
-    position: relative;
     margin: 10px 0 -10px 0;
 }
 
 .social-badges > a {
+    position: relative;
     text-decoration: none;
 }
 

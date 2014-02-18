@@ -2,3 +2,8 @@
     font-weight: 700;
     text-decoration: none;
 }
+
+.post-header > .blog-title,
+.post-header > .blog-description {
+    text-shadow: none;
+}
